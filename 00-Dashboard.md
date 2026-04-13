@@ -39,6 +39,9 @@
 - [[Décisions techniques]]
 - [[Journal de dev]]
 
+### Codebase
+- [[_Index Codebase]]
+
 ---
 
 ## Tiers & Pricing
