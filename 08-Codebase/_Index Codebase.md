@@ -140,6 +140,7 @@
 - [[scrapers - scraper_agent]]
 - [[scrapers - test_filters]]
 - [[scrapers - test_newprice]]
+- [[scrapers - test_newprice_guard]]
 - [[scrapers - variant_matcher]]
 - [[scrapers - vinted_scraper]]
 
