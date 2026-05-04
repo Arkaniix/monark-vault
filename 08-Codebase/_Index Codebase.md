@@ -68,7 +68,6 @@
 - [[services - market_ingest]]
 - [[services - market_stats]]
 - [[services - model_matcher]]
-- [[services - new_price_reference]]
 - [[services - premium]]
 - [[services - regime_detector]]
 
@@ -139,8 +138,10 @@
 - [[scrapers - run_scraper]]
 - [[scrapers - scraper_agent]]
 - [[scrapers - test_filters]]
+- [[scrapers - test_listing_hash]]
 - [[scrapers - test_newprice]]
 - [[scrapers - test_newprice_guard]]
+- [[scrapers - test_ram_kit_detection]]
 - [[scrapers - variant_matcher]]
 - [[scrapers - vinted_scraper]]
 
@@ -165,3 +166,6 @@
 
 ## Other
 - [[main]]
+
+## Utils
+- [[utils - ram_kit_detection]]

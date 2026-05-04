@@ -25,7 +25,6 @@
 - [[services - market]]
 - [[services - market_ingest]]
 - [[services - model_matcher]]
-- [[services - new_price_reference]]
 - [[services - premium]]
 - [[services - regime_detector]]
 
