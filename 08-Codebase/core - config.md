@@ -13,6 +13,7 @@
 - [[main]]
 - [[routers - auth]]
 - [[routers - billing]]
+- [[routers - client_errors]]
 - [[routers - repair]]
 - [[services - billing]]
 - [[services - intent_classifier]]

@@ -19,6 +19,7 @@
 - [[routers - alerts]]
 - [[routers - auth]]
 - [[routers - billing]]
+- [[routers - client_errors]]
 - [[routers - community]]
 - [[routers - community_flags]]
 - [[routers - community_tasks]]
