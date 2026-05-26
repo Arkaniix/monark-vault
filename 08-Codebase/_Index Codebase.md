@@ -145,6 +145,7 @@
 - [[scrapers - test_newprice]]
 - [[scrapers - test_newprice_guard]]
 - [[scrapers - test_ram_kit_detection]]
+- [[scrapers - test_ram_match_title]]
 - [[scrapers - variant_matcher]]
 - [[scrapers - vinted_scraper]]
 
