@@ -161,6 +161,7 @@
 - [[core - config]]
 - [[core - errors]]
 - [[core - logging]]
+- [[core - plans]]
 - [[core - security]]
 
 ## Db

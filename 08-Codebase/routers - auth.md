@@ -4,6 +4,7 @@
 
 ## Imports internes
 - [[core - config]]
+- [[core - plans]]
 - [[core - security]]
 - [[db - session]]
 - [[models - users]]
