@@ -1,16 +1,14 @@
-# routers/users.py
+# scripts/monthly_credit_reset.py
 
 > Auto-généré par `generate_codebase_map.py`
 
 ## Imports internes
-- [[core - security]]
+- [[core - plans]]
 - [[db - session]]
-- [[models - users]]
-- [[schemas - users]]
-- [[services - account_deletion]]
+- [[services - credits]]
 
 ## Importé par
 *Aucun module interne ne l'importe*
 
 ## Fichier source
-`app/routers/users.py`
+`app/scripts/monthly_credit_reset.py`

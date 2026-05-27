@@ -19,6 +19,7 @@
 - [[routers - admin_observatory]]
 - [[routers - admin_rejects]]
 - [[routers - admin_scraper_control]]
+- [[routers - builds]]
 - [[routers - community_flags]]
 - [[routers - inventory]]
 - [[routers - repair]]

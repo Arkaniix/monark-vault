@@ -1,16 +1,13 @@
-# routers/users.py
+# scripts/purge_expired_accounts.py
 
 > Auto-généré par `generate_codebase_map.py`
 
 ## Imports internes
-- [[core - security]]
 - [[db - session]]
-- [[models - users]]
-- [[schemas - users]]
 - [[services - account_deletion]]
 
 ## Importé par
 *Aucun module interne ne l'importe*
 
 ## Fichier source
-`app/routers/users.py`
+`app/scripts/purge_expired_accounts.py`

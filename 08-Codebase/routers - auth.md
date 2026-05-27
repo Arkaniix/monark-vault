@@ -10,6 +10,7 @@
 - [[models - users]]
 - [[schemas - auth]]
 - [[schemas - users]]
+- [[services - credits]]
 
 ## Importé par
 *Aucun module interne ne l'importe*

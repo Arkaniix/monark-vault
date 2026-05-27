@@ -24,6 +24,7 @@
 - [[routers - alerts]]
 - [[routers - auth]]
 - [[routers - billing]]
+- [[routers - builds]]
 - [[routers - community]]
 - [[routers - community_flags]]
 - [[routers - community_tasks]]

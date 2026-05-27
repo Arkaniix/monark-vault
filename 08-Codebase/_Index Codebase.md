@@ -19,6 +19,7 @@
 - [[routers - alerts]]
 - [[routers - auth]]
 - [[routers - billing]]
+- [[routers - builds]]
 - [[routers - client_errors]]
 - [[routers - community]]
 - [[routers - community_flags]]
@@ -44,6 +45,7 @@
 - [[routers - watchlist]]
 
 ## Services
+- [[services - account_deletion]]
 - [[services - alerts_engine]]
 - [[services - billing]]
 - [[services - community]]
@@ -95,6 +97,7 @@
 - [[schemas - alerts]]
 - [[schemas - auth]]
 - [[schemas - billing]]
+- [[schemas - builds]]
 - [[schemas - community]]
 - [[schemas - community_tasks]]
 - [[schemas - credits]]
@@ -156,6 +159,8 @@
 - [[scripts - compute_market_daily]]
 - [[scripts - detect_outliers]]
 - [[scripts - detect_regimes]]
+- [[scripts - monthly_credit_reset]]
+- [[scripts - purge_expired_accounts]]
 
 ## Core
 - [[core - config]]

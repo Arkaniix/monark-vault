@@ -6,7 +6,10 @@
 *Aucun import interne*
 
 ## Importé par
+- [[routers - admin]]
 - [[routers - auth]]
+- [[scripts - monthly_credit_reset]]
+- [[services - account_deletion]]
 
 ## Fichier source
 `app/core/plans.py`

@@ -3,6 +3,7 @@
 > Auto-généré par `generate_codebase_map.py`
 
 ## Imports internes
+- [[core - plans]]
 - [[core - security]]
 - [[db - session]]
 - [[models - ads]]
