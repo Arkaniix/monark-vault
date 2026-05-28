@@ -69,6 +69,7 @@
 - [[services - market]]
 - [[services - market_disappearance]]
 - [[services - market_ingest]]
+- [[services - market_margin]]
 - [[services - market_stats]]
 - [[services - model_matcher]]
 - [[services - premium]]

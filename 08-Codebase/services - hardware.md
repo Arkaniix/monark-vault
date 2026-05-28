@@ -4,6 +4,7 @@
 
 ## Imports internes
 - [[models - hardware]]
+- [[services - market_margin]]
 
 ## Importé par
 - [[routers - hardware]]
