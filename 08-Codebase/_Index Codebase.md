@@ -144,6 +144,7 @@
 - [[scrapers - run_scrape]]
 - [[scrapers - run_scraper]]
 - [[scrapers - scraper_agent]]
+- [[scrapers - test_condition_mapping]]
 - [[scrapers - test_filters]]
 - [[scrapers - test_listing_hash]]
 - [[scrapers - test_newprice]]
@@ -179,4 +180,5 @@
 - [[main]]
 
 ## Utils
+- [[utils - condition_mapping]]
 - [[utils - ram_kit_detection]]

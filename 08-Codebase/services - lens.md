@@ -9,6 +9,7 @@
 - [[schemas - lens]]
 - [[services - credits]]
 - [[services - intent_classifier]]
+- [[utils - condition_mapping]]
 
 ## Importé par
 *Aucun module interne ne l'importe*
