@@ -51,6 +51,7 @@
 - [[scripts - backfill_model_ids]]
 - [[scripts - cleanup_analysis_cache]]
 - [[scripts - community_scheduler]]
+- [[scripts - daily_credit_refill]]
 - [[scripts - detect_outliers]]
 - [[scripts - detect_regimes]]
 - [[scripts - monthly_credit_reset]]

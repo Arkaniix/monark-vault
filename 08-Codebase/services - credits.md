@@ -13,6 +13,7 @@
 - [[routers - estimator]]
 - [[routers - repair]]
 - [[routers - scrap]]
+- [[scripts - daily_credit_refill]]
 - [[scripts - monthly_credit_reset]]
 - [[services - billing]]
 - [[services - community_tasks]]

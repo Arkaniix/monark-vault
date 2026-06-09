@@ -8,6 +8,7 @@
 ## Importé par
 - [[routers - admin]]
 - [[routers - auth]]
+- [[scripts - daily_credit_refill]]
 - [[scripts - monthly_credit_reset]]
 - [[services - account_deletion]]
 
