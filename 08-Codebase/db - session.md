@@ -54,7 +54,6 @@
 - [[scripts - daily_credit_refill]]
 - [[scripts - detect_outliers]]
 - [[scripts - detect_regimes]]
-- [[scripts - monthly_credit_reset]]
 - [[scripts - purge_expired_accounts]]
 - [[services - market]]
 - [[services - market_stats]]
