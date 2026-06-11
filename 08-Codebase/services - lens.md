@@ -9,6 +9,7 @@
 - [[schemas - lens]]
 - [[services - credits]]
 - [[services - intent_classifier]]
+- [[services - market_stats]]
 - [[utils - condition_mapping]]
 
 ## Importé par

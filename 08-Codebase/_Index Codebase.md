@@ -182,3 +182,4 @@
 ## Utils
 - [[utils - condition_mapping]]
 - [[utils - ram_kit_detection]]
+- [[utils - url_hash]]

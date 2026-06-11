@@ -8,6 +8,7 @@
 ## Importé par
 - [[routers - admin_jobs]]
 - [[routers - lens]]
+- [[services - lens]]
 
 ## Fichier source
 `app/services/market_stats.py`

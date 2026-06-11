@@ -3,7 +3,7 @@
 > Auto-généré par `generate_codebase_map.py`
 
 ## Imports internes
-*Aucun import interne*
+- [[utils - url_hash]]
 
 ## Importé par
 - [[routers - community_flags]]
