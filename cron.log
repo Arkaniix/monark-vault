@@ -1947,3 +1947,12 @@ To github.com:Arkaniix/monark-vault.git
 ✓ 163 notes générées dans /home/etienne/monark-vault/08-Codebase/
 ✓ _Index Codebase.md généré
   (Dashboard déjà à jour — section Codebase présente)
+[main 4d96890] Auto-update codebase map 2026-06-12_12:00
+ 4 files changed, 22 insertions(+), 1 deletion(-)
+ create mode 100644 08-Codebase/services - intent_rules.md
+To github.com:Arkaniix/monark-vault.git
+   a988e2e..4d96890  main -> main
+✓ 163 modules trouvés
+✓ 163 notes générées dans /home/etienne/monark-vault/08-Codebase/
+✓ _Index Codebase.md généré
+  (Dashboard déjà à jour — section Codebase présente)
