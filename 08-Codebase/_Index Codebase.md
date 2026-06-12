@@ -62,6 +62,7 @@
 - [[services - ingestion]]
 - [[services - ingestion_rejects]]
 - [[services - intent_classifier]]
+- [[services - intent_rules]]
 - [[services - jobs]]
 - [[services - lens]]
 - [[services - limits]]

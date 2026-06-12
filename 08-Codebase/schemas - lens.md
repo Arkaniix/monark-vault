@@ -3,7 +3,7 @@
 > Auto-généré par `generate_codebase_map.py`
 
 ## Imports internes
-*Aucun import interne*
+- [[services - intent_rules]]
 
 ## Importé par
 - [[routers - lens]]
