@@ -6,6 +6,7 @@
 - [[core - config]]
 - [[models - billing]]
 - [[models - users]]
+- [[schemas - billing]]
 - [[services - credits]]
 
 ## Importé par
